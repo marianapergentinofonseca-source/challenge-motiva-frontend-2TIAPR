@@ -1,11 +1,11 @@
 export const plataforma = {
-  marca: 'Motiva Campo',
+  marca: 'Motiva App para uso dos operadores de ',
   complemento: 'Apoio ao profissional de campo',
   curso: 'FIAP · 2TIAPR · 2026',
   resumo:
-    'Base da plataforma para consultar trechos da malha e visualizar interações simuladas com o agente de voz.',
-  problemaTitulo: 'Vegetação alta na faixa de domínio',
+    'Primeira customização da plataforma que esta sendo desenvolvida por um dos grupos da faculdade FIAP',
+  problemaTitulo: 'Arvore com galhos acima do permitido entre o kilometro 8 e 10 ',
   problemaTexto:
     'O profissional de campo precisa saber, no trecho em que está, onde a vegetação encobre a sinalização ou invade a faixa. Nesta sprint a plataforma só consulta dados fixos e mostra um histórico simulado de comandos. O agente de voz ainda não existe.',
-  usuario: 'Profissional de campo da Motiva',
+  usuario: 'Profissional do call center para situacoes',
 }
