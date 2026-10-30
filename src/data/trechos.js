@@ -4,29 +4,29 @@
 // (ou a lista começa vazia e o grupo cadastra pelo formulário).
 export const trechos = [
   {
-    id: 't-sp280-45',
+    id: 't-sp280-8',
     rodovia: 'SP-280',
     nome: 'Castello Branco',
-    kmInicial: 08,
+    kmInicial: 8,
     kmFinal: 10,
     sentido: 'interior',
-    situacao: 'Arvore com galhos acima do permitido entre o kilometro 8 e 10 ',
+    situacao: 'Árvore com galhos acima do permitido',
     atencao: true,
     atualizadoEm: '2026-10-05T14:30:00',
   },
   {
-    id: 't-sp280-69',
+    id: 't-sp280-61',
     rodovia: 'SP-280',
     nome: 'Castello Branco',
     kmInicial: 61,
     kmFinal: 70,
     sentido: 'capital',
-    situacao: 'buraco no acostamento',
+    situacao: 'Buraco no acostamento',
     atencao: true,
     atualizadoEm: '2026-10-06T09:15:00',
   },
   {
-    id: 't-sp270-15',
+    id: 't-sp270-18',
     rodovia: 'SP-270',
     nome: 'Raposo Tavares',
     kmInicial: 18,
@@ -37,7 +37,7 @@ export const trechos = [
     atualizadoEm: '2026-10-04T16:05:00',
   },
   {
-    id: 't-sp021-19',
+    id: 't-sp021-12',
     rodovia: 'SP-021',
     nome: 'Rodoanel',
     kmInicial: 12,
@@ -48,4 +48,3 @@ export const trechos = [
     atualizadoEm: '2026-10-03T11:40:00',
   },
 ]
- 
